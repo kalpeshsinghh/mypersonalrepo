@@ -1,7 +1,7 @@
 int main()
 {
 int a,b,c;
-b=a%c
-pritf("%f",b:
-return 0
+b=a%c;
+printf("%d",b);
+return 0;
 }
