@@ -1,7 +1,7 @@
 int main()
 {
 int a,b,c;
-b=a%c;
+  c=ab;
 printf("%d",b);
 return 0;
 }
