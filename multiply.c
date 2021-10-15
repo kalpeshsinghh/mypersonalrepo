@@ -2,7 +2,7 @@
 int main()
 {
 int a ,b,c;
-c=a*b;k
+c=a*b;
 print("%c",c);
-  retuen 0;
+  return 0;
 }
