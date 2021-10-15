@@ -1,7 +1,7 @@
 int main()
 {
 int a,b,c;
-  c=ab;
+  c=a+b;
 printf("%d",b); 
 return 0;
 }
