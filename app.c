@@ -1,4 +1,5 @@
 main{
 int a,b;
-  cout<<a;
+  int c;
+ 
 }
