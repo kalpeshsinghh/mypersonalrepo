@@ -1,4 +1,4 @@
 main{
-int a,b
-  cout
+int a,b;
+  cout<<a;
 }
